@@ -9,7 +9,7 @@ export default [
         contact: "+6285964139531"
     },
     {
-        img: "/rengginang.png",
+        img: "../rengginang.png",
         title: "Rengginang Wortel",
         pemilik: "Bu Yanti",
         singkat: "Rengginang yang dibuat dari wortel segar, tanpa pengawet, pengembang, pewarna, dan MSG.",
@@ -36,7 +36,7 @@ export default [
         contact: "+628175241185"
     },
     {
-        img: "/kopi.png",
+        img: "../kopi.png",
         title: "Sangkabira Kopi",
         pemilik: "Pak Wathan",
         singkat: "Kopi arabika speciality dengan cita rasa khas yang ditanam di kaki Gunung Rinjani dengan ketinggian 1175-1400 MDPL.",
@@ -45,7 +45,7 @@ export default [
         contact: "+628175764653"
     },
     {
-        img: "/pie.jpg",
+        img: "../pie.jpg",
         title: "Pie Strawberry",
         pemilik: "Omah Bamboo",
         singkat: "Salah satu produk khas dari Desa Sembalun yang menggunakan buah strawberry segar hasil pertanian lokal.",
@@ -54,7 +54,7 @@ export default [
         contact: "+62"
     },
     {
-        img: "/buncis.jpg",
+        img: "../buncis.jpg",
         title: "Buncis/Kacang Merah",
         pemilik: "Bu Muti",
         singkat: "Sebuah snack yang berasal dari tanaman endemik yang hanya tumbuh di kaki Gunung Rinjani.",
@@ -63,7 +63,7 @@ export default [
         contact: "+6287702161001"
     },
     {
-        img: "/black-garlic.png",
+        img: "../black-garlic.png",
         title: "Black Garlic",
         pemilik: "Balenta",
         singkat: "Black Garlic merupakan produk hasil fermentasi dari bawang putih yang memiliki rasa manis dan tekstur lembut.",
@@ -72,7 +72,7 @@ export default [
         contact: "+628175241185"
     },
     {
-        img: "/kentang.png",
+        img: "../kentang.png",
         title: "Kripik Kentang Suberang",
         pemilik: "Leo Food",
         singkat: "Keripik kentang yang dibuat dengan menggunakan kentang pilihan hasil pertanian Desa Sembalun.",

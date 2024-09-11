@@ -1,6 +1,6 @@
 export default [
     {
-        img: "../tenun.jpg",
+        img: "tenun.jpg",
         title: "Kerajinan Tenun",
         pemilik: "Bu Dwi",
         singkat: "Sebuah kain tenun yang dibuat dari proses tradisional hingga menjadi kain tenun khas dan berkualitas.",
@@ -8,7 +8,7 @@ export default [
         url: "/destinasi/pages/rinjani",
         contact: "+6285964139531"
     },{
-        img: "/kopi.png",
+        img: "kopi.png",
         title: "Sangkabira Kopi",
         pemilik: "Pak Wathan",
         singkat: "Kopi arabika speciality dengan cita rasa khas yang ditanam di kaki Gunung Rinjani.",
@@ -16,7 +16,7 @@ export default [
         url: "/destinasi/sawah",
         contact: "+628175764653"
     },{
-        img: "/buncis.jpg",
+        img: "buncis.jpg",
         title: "Buncis/Kacang Merah",
         pemilik: "Bu Muti",
         singkat: "Sebuah snack yang berasal dari tanaman endemik yang hanya tumbuh di kaki Gunung Rinjani.",

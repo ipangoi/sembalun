@@ -27,7 +27,7 @@ export default function Navbar() {
                 <div className="flex items-center justify-between relative">
                     <div className="px-4 flex items-center">
                         <a href="/" className="block py-6">
-                            <img src="logo.png" class="h-10 w-10"/>
+                            <img src="../logo.png" class="h-10 w-10"/>
                         </a>
                         <a href="/" className="font-bold text-sm md:text-lg text-green-600 block py-6 mx-4">
                             Desa Wisata

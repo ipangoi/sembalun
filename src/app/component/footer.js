@@ -4,7 +4,7 @@ export default function Footer(){
             <div class="container px-14 py-12 mx-auto flex md:items-center lg:items-start md:flex-row md:flex-nowrap flex-wrap flex-col">
                 <div class="w-64 flex-shrink-0 md:mx-0 mx-auto text-center md:text-left">
                 <a class="flex flex-col md:flex-row title-font font-medium items-center md:justify-start justify-center text-white">
-                    <img src="/logo.png" class="w-14 h-14 text-white p-2 rounded-full" />
+                    <img src="logo.png" class="w-14 h-14 text-white p-2 rounded-full" />
                     <span class="text-left text-xl">Desa Wisata Sembalun</span>
                 </a>
                 <p class="mt-2 text-sm text-white">Website Desa Wisata Sembalun dibuat oleh tim KKN-PPM UGM Sembalun Beralun dengan tujuan sebagai kanal informasi desa.</p>

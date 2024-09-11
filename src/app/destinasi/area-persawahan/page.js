@@ -9,7 +9,7 @@ export default function Persawahan() {
                     <div
                         class="absolute top-0 left-0 w-full h-full bg-center bg-cover"
                         style={{
-                            backgroundImage: 'url("/5.jpg")',
+                            backgroundImage: 'url("../../5.jpg")',
                             filter: 'brightness(50%)',
                             zIndex: -1
                         }}
@@ -40,7 +40,7 @@ export default function Persawahan() {
                                         
                                     </div>
                                     
-                                    <img alt="ecommerce" class="lg:w-1/2 w-full lg:h-auto h-64 object-cover object-center rounded" src="/5.jpg"/>
+                                    <img alt="ecommerce" class="lg:w-1/2 w-full lg:h-auto h-64 object-cover object-center rounded" src="../5.jpg"/>
                                 </div>
                             </div>
                         </section>
