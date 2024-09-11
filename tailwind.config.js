@@ -22,7 +22,7 @@ module.exports = withMT({
     },
     extend: {
     backgroundImage: {
-      hero: 'url(/sembalun-3.jpg)',
+      hero: 'url(sembalun-3.jpg)',
       hero2: 'url(/sembalun-1.jpg)'
     },
     colors:{
